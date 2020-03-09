@@ -1,2 +1,2 @@
 # practica1
-exploration of data set
+exploration of data sets
